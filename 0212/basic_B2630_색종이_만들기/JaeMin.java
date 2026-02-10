@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+
+
+//재귀 쓸 예정
+
+>>>>>>> c9f24fc95f91adaa25118f0790d6e679ed03e037
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -50,4 +57,8 @@ public class JaeMin {
         }
         return false;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c9f24fc95f91adaa25118f0790d6e679ed03e037
