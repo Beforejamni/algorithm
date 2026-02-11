@@ -47,7 +47,7 @@ public class b2630_2 {
             return;
         }
 
-        size = size / 2; // 사이즈 절반으로 줄이고 이분탐색
+        size = size / 2; // 사이즈 절반으로 줄이고 분할탐색
         solve(x, y, size);
         solve(x, y + size, size);
         solve(x + size, y, size);
